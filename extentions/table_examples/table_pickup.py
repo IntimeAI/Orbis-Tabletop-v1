@@ -24,7 +24,7 @@ class FrankaPlaying(BaseTask):
     TASK_COMPLETION_THRESHOLD = 0.02
 
     DEFAULT_USD_PATH = (
-        "./Orbis-Tabletop-v1/Tabletop/OfficeTables/office_table00001/office_table00001.usdc"
+        "./Orbis-Tabletop/Tabletop/OfficeTables/office_table00001/office_table00001.usdc"
     )
     TABLE_PRIM_PATH = "/World/OfficeTable"
     FRANKA_PRIM_PATH = "/World/Fancy_Franka"
